@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabxetc
-- 👀 I’m interested in music, movies, game development, The Sims, Play station 2 and Food.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in music, photography, fullstack development The Sims, Play station 2 and Food.
+- 🌱 I currently know Java, HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me: via email
 
